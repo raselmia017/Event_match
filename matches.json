@@ -6,7 +6,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4391/image",
         "team1Title": "Detroit Lions",
         "team2Title": "Chicago Bears",
-        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist,) TSN SPORTS 3 - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN SPORTS 4 - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN SPORTS 5 - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) SD STREAM,,http://193.47.62.50/hls/I555A.m3u8",
+        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN SPORTS 3 - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN SPORTS 4 - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN SPORTS 5 - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist,) SD STREAM,,http://193.47.62.50/hls/I555A.m3u8",
         "isHot": true
     },
     {
@@ -990,26 +990,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/229664/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/323076/image",
-        "team1Title": "Tajikistan U17",
-        "team2Title": "Senegal U17",
-        "streamLink": "SM IPTV LIVE,,https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?,) SD STREAM,,http://193.47.62.50/hls/GTGTGTAA.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22594/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/190704/image",
-        "team1Title": "Croatia U17",
-        "team2Title": "Cuba U17",
-        "streamLink": "SM IPTV LIVE,,https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?,) SD STREAM,,http://193.47.62.50/hls/GTGTGTA.m3u8",
-        "isHot": false
-    },
-    {
         "eventTitle": "FOOTBALL | Saudi Pro League",
         "matchTime": "2026-11-26 23:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/56035/image",
@@ -1146,7 +1126,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3006/image",
         "team1Title": "FC Viktoria Plzeň",
         "team2Title": "Benfica",
-        "streamLink": "DAZN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ey3gbdcbkm/out/v1/af69013f1318441ba995f620e39bfddb/cenc.mpd|drmScheme=clearkey&drmLicense=48eb36d8c4dcd2595c373c1898c7ec00:cf34598c5ff9fcf365100bdcad50dc75,) PARAMOUNT+ - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qzht6ofixj/out/v1/43c9ed6bc1734cae8de703e86e965561/cenc.mpd|drmScheme=clearkey&drmLicense=a9a9c367f230f52c8672bd967f6ff55f:62fad5d40618e35416328f8e81527d90,) VIX SPANISH - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcqxxnyvxx/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd|drmScheme=clearkey&drmLicense=0a247b643241ff5ecaddf3b1c62e6033:75201ababa80fdb9a6458f0ebb673ae7,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61077\\/load-playlist-multi",
+        "streamLink": "DAZN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ey3gbdcbkm/out/v1/af69013f1318441ba995f620e39bfddb/cenc.mpd|drmScheme=clearkey&drmLicense=48eb36d8c4dcd2595c373c1898c7ec00:cf34598c5ff9fcf365100bdcad50dc75,) PARAMOUNT+ - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qzht6ofixj/out/v1/43c9ed6bc1734cae8de703e86e965561/cenc.mpd|drmScheme=clearkey&drmLicense=a9a9c367f230f52c8672bd967f6ff55f:62fad5d40618e35416328f8e81527d90,) VIX SPANISH - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcqxxnyvxx/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd|drmScheme=clearkey&drmLicense=0a247b643241ff5ecaddf3b1c62e6033:75201ababa80fdb9a6458f0ebb673ae7,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61077\\/load-playlist-multi,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61077\\/load-playlist-multi,) TAPMAD - AQ,,https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8,) HD SERVER,,https://chatgpt.hereisman.net/playlist/61077/load-playlist,) HD SERVER,,https://pl.playlist6.space/playlist/61077/simplefuturetower92/caxi,) HD STREAM,,https://www.rtmpcdn.com/live/64b1c4b1-3b86-4584-9b22-e353322a186e.m3u8,) SD STREAM,,http://193.47.62.55/hls/KFFFAAA.m3u8",
         "isHot": false
     },
     {
@@ -1176,7 +1156,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3273/image",
         "team1Title": "Olympique de Marseille",
         "team2Title": "Levski Sofia",
-        "streamLink": "PARAMOUNT+ - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiwzmgrzda/out/v1/d3d853014ac141c089619db5cf273760/cenc.mpd|drmScheme=clearkey&drmLicense=28520e80027415f8ecd362d277c610cc:7f1fd3cc8ea5e77b69fc1bc36bdfb862,) DAZN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vf01n9e6ic/out/v1/c8437f4ea7204ea5b49cb70f9833292f/cenc.mpd|drmScheme=clearkey&drmLicense=c2d330cf5b6ba71b8262cabbe31cdbf4:a1ddee66807bed11723f69e83a55b2d1,) VIX SPANISH - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jknhbwks4q/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|drmScheme=clearkey&drmLicense=8202c517fe7618979c1c85605cc50c0b:8aa9fd9c3fc239df4f89b8791b7471bf",
+        "streamLink": "PARAMOUNT+ - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiwzmgrzda/out/v1/d3d853014ac141c089619db5cf273760/cenc.mpd|drmScheme=clearkey&drmLicense=28520e80027415f8ecd362d277c610cc:7f1fd3cc8ea5e77b69fc1bc36bdfb862,) DAZN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vf01n9e6ic/out/v1/c8437f4ea7204ea5b49cb70f9833292f/cenc.mpd|drmScheme=clearkey&drmLicense=c2d330cf5b6ba71b8262cabbe31cdbf4:a1ddee66807bed11723f69e83a55b2d1,) VIX SPANISH - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jknhbwks4q/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|drmScheme=clearkey&drmLicense=8202c517fe7618979c1c85605cc50c0b:8aa9fd9c3fc239df4f89b8791b7471bf,) TAPMAD - AQ,,https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8,) HD STREAM,,https://www.rtmpcdn.com/live/b3fcac28-7f9f-4301-a07b-d414d1cfac0d.m3u8,) SD STREAM,,http://193.47.62.59/hls/AAAAQQ.m3u8",
         "isHot": false
     },
     {
