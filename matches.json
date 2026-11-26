@@ -1,26 +1,6 @@
 [
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22634/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22583/image",
-        "team1Title": "New Zealand U17",
-        "team2Title": "Belgium U17",
-        "streamLink": "FOX SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD SERVER,,https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/468404/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/203876/image",
-        "team1Title": "Vietnam U17",
-        "team2Title": "Mali U17",
-        "streamLink": "SM IPTV LIVE,,https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-26 20:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22662/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/22616/image",
@@ -106,7 +86,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/323076/image",
         "team1Title": "Tajikistan U17",
         "team2Title": "Senegal U17",
-        "streamLink": "SD STREAM,,http://193.47.62.50/hls/GTGTGTAA.m3u8",
+        "streamLink": "SM IPTV LIVE,,https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?,) SD STREAM,,http://193.47.62.50/hls/GTGTGTAA.m3u8",
         "isHot": true
     },
     {
@@ -116,7 +96,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/190704/image",
         "team1Title": "Croatia U17",
         "team2Title": "Cuba U17",
-        "streamLink": "SD STREAM,,http://193.47.62.50/hls/GTGTGTA.m3u8",
+        "streamLink": "SM IPTV LIVE,,https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?,) SD STREAM,,http://193.47.62.50/hls/GTGTGTA.m3u8",
         "isHot": true
     },
     {
@@ -127,7 +107,7 @@
         "team1Title": "Al Faisaly",
         "team2Title": "Diriyah",
         "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Europa League",
@@ -1227,6 +1207,26 @@
         "team1Title": "Preah Khan Reach Svay Rieng FC",
         "team2Title": "Machida Zelvia",
         "streamLink": "FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8,) TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-26 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22634/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22583/image",
+        "team1Title": "New Zealand U17",
+        "team2Title": "Belgium U17",
+        "streamLink": "FOX SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD SERVER,,https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-26 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/468404/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/203876/image",
+        "team1Title": "Vietnam U17",
+        "team2Title": "Mali U17",
+        "streamLink": "SM IPTV LIVE,,https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?",
         "isHot": false
     }
 ]
