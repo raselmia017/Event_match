@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "CRICKET | Italia T10 2026",
-        "matchTime": "2026-11-26 17:00:00",
-        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "team1Title": "Italia T10",
-        "team2Title": "Italia T10",
-        "streamLink": "UNBEATEN FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd|drmScheme=clearkey&drmLicense=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b,) SM IPTV LIVE,,https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | AFC Champions League Two",
         "matchTime": "2026-11-26 18:15:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/35607/image",
@@ -106,7 +96,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22479/image",
         "team1Title": "Morocco U17",
         "team2Title": "Spain U17",
-        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) FOX SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
         "isHot": true
     },
     {
@@ -127,7 +117,7 @@
         "team1Title": "Abha",
         "team2Title": "Al-Shabab",
         "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Conference League",
@@ -137,7 +127,7 @@
         "team1Title": "FC Kairat Almaty",
         "team2Title": "Mjällby AIF",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -1227,6 +1217,16 @@
         "team1Title": "Gangwon FC",
         "team2Title": "Kitchee SC",
         "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249031_english_hls_eca20e0fdd32083_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWA.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | Italia T10 2026",
+        "matchTime": "2026-11-26 17:00:00",
+        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "team1Title": "Italia T10",
+        "team2Title": "Italia T10",
+        "streamLink": "UNBEATEN FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd|drmScheme=clearkey&drmLicense=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b,) SM IPTV LIVE,,https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8",
         "isHot": false
     }
 ]
