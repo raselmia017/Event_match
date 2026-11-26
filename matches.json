@@ -207,7 +207,7 @@
         "team1Title": "Dallas Cowboys",
         "team2Title": "Philadelphia Eagles",
         "streamLink": "Sky Top Event - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | ICC World Test Championship",
@@ -827,126 +827,6 @@
         "team1Title": "India A",
         "team2Title": "Sri Lanka A",
         "streamLink": "PRIME VIDEO (Multi-Audio),,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sqn5t3keuo/out/v1/9d5e81f1ef7a4f39baa79cec0073d671/cenc.mpd?|drmScheme=clearkey&drmLicense=115086768751d95aac011169ff3547bd:3e3c4e34b782a6ffe98df710f8dc0a00,) WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmScheme=clearkey&drmLicense=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432,) STARZPLAY FHD,,https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9,) SONYLIV ENG - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) WILLOW S2 - AQ,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmScheme=clearkey&drmLicense=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432,) SONYLIV HIN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV TAM - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV TEL - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV KAN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONY TEN 1 - [IN],,https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 2 - [IN],,https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 3 - [IN],,https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 4 - [IN],,https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 5 - [IN],,https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) PTV SPORTS HD,,https://live.msnetworks.net/ptv-sports/master.m3u8,) TAMASHA AQ,,https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3043/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3373/image",
-        "team1Title": "Tampines Rovers",
-        "team2Title": "Shanghai Shenhua",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAA.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/338334/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/35605/image",
-        "team1Title": "Kuching City",
-        "team2Title": "Phnom Penh Crown",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249032_english_hls_a51be743a28523_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAA.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34220/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/42199/image",
-        "team1Title": "Gangwon FC",
-        "team2Title": "Kitchee SC",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249031_english_hls_eca20e0fdd32083_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWA.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 18:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/35607/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3041/image",
-        "team1Title": "BG Pathum United",
-        "team2Title": "Lion City Sailors",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAAA.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 18:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/40662/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2946/image",
-        "team1Title": "Tai Po",
-        "team2Title": "Adelaide United",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 18:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/153474/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/44409/image",
-        "team1Title": "Preah Khan Reach Svay Rieng FC",
-        "team2Title": "Machida Zelvia",
-        "streamLink": "FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8,) TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22634/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22583/image",
-        "team1Title": "New Zealand U17",
-        "team2Title": "Belgium U17",
-        "streamLink": "FOX SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD SERVER,,https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/468404/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/203876/image",
-        "team1Title": "Vietnam U17",
-        "team2Title": "Mali U17",
-        "streamLink": "SM IPTV LIVE,,https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 20:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22662/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22616/image",
-        "team1Title": "Uzbekistan U17",
-        "team2Title": "Italy U17",
-        "streamLink": "D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel12.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-26 20:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22617/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/48857/image",
-        "team1Title": "Jamaica U17",
-        "team2Title": "Côte d'Ivoire U17",
-        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel18.m3u8,) SD STREAM,,http://193.47.62.41/hls/QTTT.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Saudi Pro League",
-        "matchTime": "2026-11-26 20:25:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/56023/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/168088/image",
-        "team1Title": "Al-Fateh",
-        "team2Title": "Al-Riyadh",
-        "streamLink": "SD STREAM,,http://193.47.62.41/hls/QTTTAAA.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Conference League",
-        "matchTime": "2026-11-26 21:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5172/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1783/image",
-        "team1Title": "FC Kairat Almaty",
-        "team2Title": "Mjällby AIF",
-        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408,) SPORT 2 CZ - AQ,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) SONYLIV ENG - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795748537~acl=/*~id=69004804089144406230493982079733~hmac=ba7fa616632786d17cd3e0464ae172b3c459308d569fa4ff7f4477b39408c6e4",
         "isHot": false
     },
     {
