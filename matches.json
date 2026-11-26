@@ -1,45 +1,5 @@
 [
     {
-        "eventTitle": "CRICKET | Men's Asia Cup Rising Stars",
-        "matchTime": "2026-11-26 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187756/image",
-        "team1Title": "India A",
-        "team2Title": "Sri Lanka A",
-        "streamLink": "PRIME VIDEO (Multi-Audio),,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sqn5t3keuo/out/v1/9d5e81f1ef7a4f39baa79cec0073d671/cenc.mpd?|drmScheme=clearkey&drmLicense=115086768751d95aac011169ff3547bd:3e3c4e34b782a6ffe98df710f8dc0a00,) WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmScheme=clearkey&drmLicense=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432,) STARZPLAY FHD,,https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9,) SONYLIV ENG - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) WILLOW S2 - AQ,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmScheme=clearkey&drmLicense=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432,) SONYLIV HIN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV TAM - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV TEL - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV KAN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONY TEN 1 - [IN],,https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 2 - [IN],,https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 3 - [IN],,https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 4 - [IN],,https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 5 - [IN],,https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) PTV SPORTS HD,,https://live.msnetworks.net/ptv-sports/master.m3u8,) TAMASHA AQ,,https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3043/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3373/image",
-        "team1Title": "Tampines Rovers",
-        "team2Title": "Shanghai Shenhua",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAA.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/338334/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/35605/image",
-        "team1Title": "Kuching City",
-        "team2Title": "Phnom Penh Crown",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249032_english_hls_a51be743a28523_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAA.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34220/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/42199/image",
-        "team1Title": "Gangwon FC",
-        "team2Title": "Kitchee SC",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249031_english_hls_eca20e0fdd32083_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWA.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | Italia T10 2026",
         "matchTime": "2026-11-26 17:00:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
@@ -127,7 +87,7 @@
         "team1Title": "Al-Fateh",
         "team2Title": "Al-Riyadh",
         "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | International League T20",
@@ -137,7 +97,7 @@
         "team1Title": "ILT T20",
         "team2Title": "ILT T20",
         "streamLink": "WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd|drmScheme=clearkey&drmLicense=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce,) FANCODE - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8,) UNITE8 HIN HD,,http://103.205.132.29:8081/Unite8-sports-1/index.m3u8,) ZEE ZEST IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd|drmScheme=clearkey&drmLicense=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735,) UNITE8 SPORTS IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f,) FANCODE AQ (IND),,https://in-mc-vod.fancode.com/mumbai/4251054_english_hls_b961d4d41363338_1ta-di_h264/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -1227,6 +1187,46 @@
         "team1Title": "Great Britain",
         "team2Title": "Germany",
         "streamLink": "BEIN SPORTS,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281,) TENNIS TV DE AQ,,https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd|drmScheme=clearkey&drmLicense=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab,) TSN SPORTS AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | Men's Asia Cup Rising Stars",
+        "matchTime": "2026-11-26 16:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187756/image",
+        "team1Title": "India A",
+        "team2Title": "Sri Lanka A",
+        "streamLink": "PRIME VIDEO (Multi-Audio),,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sqn5t3keuo/out/v1/9d5e81f1ef7a4f39baa79cec0073d671/cenc.mpd?|drmScheme=clearkey&drmLicense=115086768751d95aac011169ff3547bd:3e3c4e34b782a6ffe98df710f8dc0a00,) WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmScheme=clearkey&drmLicense=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432,) STARZPLAY FHD,,https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9,) SONYLIV ENG - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) WILLOW S2 - AQ,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmScheme=clearkey&drmLicense=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432,) SONYLIV HIN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV TAM - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV TEL - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONYLIV KAN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234,) SONY TEN 1 - [IN],,https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 2 - [IN],,https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 3 - [IN],,https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 4 - [IN],,https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) SONY TEN 5 - [IN],,https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8,) PTV SPORTS HD,,https://live.msnetworks.net/ptv-sports/master.m3u8,) TAMASHA AQ,,https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC Champions League Two",
+        "matchTime": "2026-11-26 16:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3043/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3373/image",
+        "team1Title": "Tampines Rovers",
+        "team2Title": "Shanghai Shenhua",
+        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAA.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC Champions League Two",
+        "matchTime": "2026-11-26 16:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/338334/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/35605/image",
+        "team1Title": "Kuching City",
+        "team2Title": "Phnom Penh Crown",
+        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249032_english_hls_a51be743a28523_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAA.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC Champions League Two",
+        "matchTime": "2026-11-26 16:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34220/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/42199/image",
+        "team1Title": "Gangwon FC",
+        "team2Title": "Kitchee SC",
+        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249031_english_hls_eca20e0fdd32083_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWA.m3u8",
         "isHot": false
     }
 ]
