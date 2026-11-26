@@ -96,7 +96,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22479/image",
         "team1Title": "Morocco U17",
         "team2Title": "Spain U17",
-        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) FOX SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) FOX SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) SD STREAM,,http://193.47.62.55/hls/QYYYQ.m3u8",
         "isHot": true
     },
     {
@@ -106,7 +106,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
         "team1Title": "China U17",
         "team2Title": "Fiji U17",
-        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel17.m3u8",
+        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel17.m3u8,) SD STREAM,,http://193.47.62.55/hls/QYYY.m3u8",
         "isHot": true
     },
     {
@@ -116,7 +116,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/34313/image",
         "team1Title": "Abha",
         "team2Title": "Al-Shabab",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel8.m3u8,) SD STREAM,,http://193.47.62.55/hls/QYYYQQ.m3u8",
         "isHot": true
     },
     {
@@ -126,7 +126,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/1783/image",
         "team1Title": "FC Kairat Almaty",
         "team2Title": "Mjällby AIF",
-        "streamLink": "",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408,) SPORT 2 CZ - AQ,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) SONYLIV ENG - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795748537~acl=/*~id=69004804089144406230493982079733~hmac=ba7fa616632786d17cd3e0464ae172b3c459308d569fa4ff7f4477b39408c6e4",
         "isHot": true
     },
     {
@@ -137,7 +137,7 @@
         "team1Title": "Tajikistan U17",
         "team2Title": "Senegal U17",
         "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -147,7 +147,7 @@
         "team1Title": "Croatia U17",
         "team2Title": "Cuba U17",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -206,7 +206,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/2692/image",
         "team1Title": "Olympiacos FC",
         "team2Title": "AC Milan",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
         "isHot": false
     },
     {
@@ -216,7 +216,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/2681/image",
         "team1Title": "GNK Dinamo Zagreb",
         "team2Title": "Bayer 04 Leverkusen",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "Sky Top Event- AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
         "isHot": false
     },
     {
@@ -256,7 +256,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/116223/image",
         "team1Title": "Brighton & Hove Albion",
         "team2Title": "Universitatea Craiova",
-        "streamLink": "",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "isHot": false
     },
     {
@@ -316,7 +316,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/1653/image",
         "team1Title": "Heart of Midlothian",
         "team2Title": "AS Monaco",
-        "streamLink": "",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
         "isHot": false
     },
     {
@@ -326,7 +326,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/60/image",
         "team1Title": "Celta Vigo",
         "team2Title": "Bournemouth",
-        "streamLink": "",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": false
     },
     {
@@ -356,7 +356,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3395/image",
         "team1Title": "Juventus",
         "team2Title": "Omonia Nicosia",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
         "isHot": false
     },
     {
@@ -386,7 +386,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/2352/image",
         "team1Title": "Torreense",
         "team2Title": "Celtic",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
         "isHot": false
     },
     {
@@ -426,7 +426,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/2824/image",
         "team1Title": "Crystal Palace",
         "team2Title": "Real Sociedad",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": false
     },
     {
@@ -476,7 +476,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/2955/image",
         "team1Title": "SC Freiburg",
         "team2Title": "FC Twente",
-        "streamLink": "",
+        "streamLink": "Sky Top Event- AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
         "isHot": false
     },
     {
@@ -606,7 +606,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/42210/image",
         "team1Title": "Macarthur FC",
         "team2Title": "Melbourne City",
-        "streamLink": "",
+        "streamLink": "TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
         "isHot": false
     },
     {
