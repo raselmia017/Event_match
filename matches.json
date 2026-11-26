@@ -76,7 +76,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/48857/image",
         "team1Title": "Jamaica U17",
         "team2Title": "Côte d'Ivoire U17",
-        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
+        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel18.m3u8,) SD STREAM,,http://193.47.62.41/hls/QTTT.m3u8",
         "isHot": true
     },
     {
@@ -86,7 +86,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/168088/image",
         "team1Title": "Al-Fateh",
         "team2Title": "Al-Riyadh",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "SD STREAM,,http://193.47.62.41/hls/QTTTAAA.m3u8",
         "isHot": true
     },
     {
@@ -96,7 +96,7 @@
         "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
         "team1Title": "ILT T20",
         "team2Title": "ILT T20",
-        "streamLink": "WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd|drmScheme=clearkey&drmLicense=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce,) FANCODE - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8,) UNITE8 HIN HD,,http://103.205.132.29:8081/Unite8-sports-1/index.m3u8,) ZEE ZEST IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd|drmScheme=clearkey&drmLicense=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735,) UNITE8 SPORTS IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f,) FANCODE AQ (IND),,https://in-mc-vod.fancode.com/mumbai/4251054_english_hls_b961d4d41363338_1ta-di_h264/index.m3u8",
+        "streamLink": "WILLOW - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd|drmScheme=clearkey&drmLicense=d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744,) FANCODE - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8,) UNITE8 HIN HD,,http://103.205.132.29:8081/Unite8-sports-1/index.m3u8,) ZEE ZEST IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd|drmScheme=clearkey&drmLicense=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735,) UNITE8 SPORTS IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8",
         "isHot": true
     },
     {
@@ -107,7 +107,7 @@
         "team1Title": "Morocco U17",
         "team2Title": "Spain U17",
         "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -117,7 +117,7 @@
         "team1Title": "China U17",
         "team2Title": "Fiji U17",
         "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel17.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
