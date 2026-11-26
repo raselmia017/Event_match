@@ -1,35 +1,5 @@
 [
     {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 18:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/35607/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3041/image",
-        "team1Title": "BG Pathum United",
-        "team2Title": "Lion City Sailors",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAAA.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 18:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/40662/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2946/image",
-        "team1Title": "Tai Po",
-        "team2Title": "Adelaide United",
-        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC Champions League Two",
-        "matchTime": "2026-11-26 18:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/153474/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/44409/image",
-        "team1Title": "Preah Khan Reach Svay Rieng FC",
-        "team2Title": "Machida Zelvia",
-        "streamLink": "FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8,) TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-26 19:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22634/image",
@@ -136,7 +106,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/323076/image",
         "team1Title": "Tajikistan U17",
         "team2Title": "Senegal U17",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "SD STREAM,,http://193.47.62.50/hls/GTGTGTAA.m3u8",
         "isHot": true
     },
     {
@@ -146,7 +116,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/190704/image",
         "team1Title": "Croatia U17",
         "team2Title": "Cuba U17",
-        "streamLink": "",
+        "streamLink": "SD STREAM,,http://193.47.62.50/hls/GTGTGTA.m3u8",
         "isHot": true
     },
     {
@@ -1227,6 +1197,36 @@
         "team1Title": "Italia T10",
         "team2Title": "Italia T10",
         "streamLink": "UNBEATEN FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd|drmScheme=clearkey&drmLicense=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b,) SM IPTV LIVE,,https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC Champions League Two",
+        "matchTime": "2026-11-26 18:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/35607/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3041/image",
+        "team1Title": "BG Pathum United",
+        "team2Title": "Lion City Sailors",
+        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAAA.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC Champions League Two",
+        "matchTime": "2026-11-26 18:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/40662/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2946/image",
+        "team1Title": "Tai Po",
+        "team2Title": "Adelaide United",
+        "streamLink": "TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8,) SD STREAM,,http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC Champions League Two",
+        "matchTime": "2026-11-26 18:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/153474/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/44409/image",
+        "team1Title": "Preah Khan Reach Svay Rieng FC",
+        "team2Title": "Machida Zelvia",
+        "streamLink": "FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8,) TAPMAD - AQ,,https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
         "isHot": false
     }
 ]
