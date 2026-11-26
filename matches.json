@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "TENNIS | Davis Cup",
-        "matchTime": "2026-11-26 15:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/15766/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4711/image",
-        "team1Title": "Great Britain",
-        "team2Title": "Germany",
-        "streamLink": "BEIN SPORTS,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281,) TENNIS TV DE AQ,,https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd|drmScheme=clearkey&drmLicense=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab,) TSN SPORTS AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | Men's Asia Cup Rising Stars",
         "matchTime": "2026-11-26 16:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187765/image",
@@ -96,7 +86,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22583/image",
         "team1Title": "New Zealand U17",
         "team2Title": "Belgium U17",
-        "streamLink": "",
+        "streamLink": "SM IPTV Live,,https://live3979.zundrixmediapipeline.com/live/channel16.m3u8",
         "isHot": true
     },
     {
@@ -116,7 +106,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22616/image",
         "team1Title": "Uzbekistan U17",
         "team2Title": "Italy U17",
-        "streamLink": "D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+        "streamLink": "D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel12.m3u8",
         "isHot": false
     },
     {
@@ -126,7 +116,17 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/48857/image",
         "team1Title": "Jamaica U17",
         "team2Title": "Côte d'Ivoire U17",
-        "streamLink": "",
+        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Saudi Pro League",
+        "matchTime": "2026-11-26 20:25:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/56023/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/168088/image",
+        "team1Title": "Al-Fateh",
+        "team2Title": "Al-Riyadh",
+        "streamLink": "SM IPTV Live,,Ok",
         "isHot": false
     },
     {
@@ -156,7 +156,17 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
         "team1Title": "China U17",
         "team2Title": "Fiji U17",
-        "streamLink": "",
+        "streamLink": "HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel17.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Saudi Pro League",
+        "matchTime": "2026-11-26 21:05:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/168090/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/34313/image",
+        "team1Title": "Abha",
+        "team2Title": "Al-Shabab",
+        "streamLink": "SM IPTV Live,,Ok",
         "isHot": false
     },
     {
@@ -1207,6 +1217,16 @@
         "team1Title": "Sydney Sixers Women",
         "team2Title": "Melbourne Stars Women",
         "streamLink": "WILLOW - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd|drmScheme=clearkey&drmLicense=41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174,) CRICKET AU AQ,,https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2GapTrGM8HC5WXnbA6bzAozHCCBMY52Y3TC69oRNUsW2vE2ZqcprUHApPAgvNRbeECYmKzYiConP/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=193794596381,) TAPMAD - AQ,,https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8,) WILLOW HD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) TAPMAD HD,,https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "TENNIS | Davis Cup",
+        "matchTime": "2026-11-26 15:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/15766/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4711/image",
+        "team1Title": "Great Britain",
+        "team2Title": "Germany",
+        "streamLink": "BEIN SPORTS,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281,) TENNIS TV DE AQ,,https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd|drmScheme=clearkey&drmLicense=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab,) TSN SPORTS AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
         "isHot": false
     }
 ]
