@@ -57,7 +57,7 @@
         "team1Title": "Italia T10",
         "team2Title": "Italia T10",
         "streamLink": "UNBEATEN FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd|drmScheme=clearkey&drmLicense=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b,) SM IPTV LIVE,,https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Dubai SVNS Women's International Invitational",
@@ -67,7 +67,7 @@
         "team1Title": "Ireland 7s",
         "team2Title": "Belgium 7's",
         "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
