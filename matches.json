@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "CRICKET | ICC World Test Championship",
-        "matchTime": "2026-11-27 04:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-        "team1Title": "New Zealand",
-        "team2Title": "India",
-        "streamLink": "WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408,) TAPMAD - AQ,,https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8,) WILLOW S2 - AQ,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171,) TEN SPORTS HD,,https://live.msnetworks.net/ten-sports/master.m3u8,) SONYLIV ENG - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV HIN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV TAM - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV TEL - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV KAN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
         "matchTime": "2026-11-27 05:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/1981/image",
@@ -897,6 +887,16 @@
         "team1Title": "Dallas Cowboys",
         "team2Title": "Philadelphia Eagles",
         "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) SM IPTV Live - AQ,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61096\\/load-playlist,) Sky Top Event - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) TSN SPORTS 3 - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN SPORTS 4 - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | ICC World Test Championship",
+        "matchTime": "2026-11-27 04:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
+        "team1Title": "New Zealand",
+        "team2Title": "India",
+        "streamLink": "WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408,) TAPMAD - AQ,,https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8,) WILLOW S2 - AQ,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171,) TEN SPORTS HD,,https://live.msnetworks.net/ten-sports/master.m3u8,) SONYLIV ENG - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV HIN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV TAM - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV TEL - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05,) SONYLIV KAN - AQ,,https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795771631~acl=/*~id=58959264401822565893771367052567~hmac=58cf06e57abb32c61bc9184e84304a61fbbc6115497d57c17e862faa7f907c05",
         "isHot": false
     }
 ]
