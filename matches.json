@@ -20,6 +20,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | BBL Women's",
+        "matchTime": "2026-11-27 11:10:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team1Title": "BBL Women's",
+        "team2Title": "BBL Women's",
+        "streamLink": "WILLOW - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2dkhupmkeb/out/v1/0c49d8b659d74e618997b7c5778d9abf/cenc.mpd|drmScheme=clearkey&drmLicense=f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f,) SKY CRICKET - FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW - ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2dkhupmkeb/out/v1/0c49d8b659d74e618997b7c5778d9abf/cenc.mpd|drmScheme=clearkey&drmLicense=f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f,) WILLOW HD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "isHot": true
+    },
+    {
         "eventTitle": "MOTORSPORTS | MotorGP",
         "matchTime": "2026-11-27 13:30:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
@@ -27,16 +37,6 @@
         "team1Title": "MotorGP",
         "team2Title": "MotorGP",
         "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) SKY SPORT MIX FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CRICKET | T20 International",
-        "matchTime": "2026-11-27 14:05:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
-        "team1Title": "Australia",
-        "team2Title": "England",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd|drmScheme=clearkey&drmLicense=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd|drmScheme=clearkey&drmLicense=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE SD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd|drmScheme=clearkey&drmLicense=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49,) AUSTRALIA TV - AQ,,https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484,) TAPMAD - AQ,,https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8,) TAPMAD HD,,https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8,) TEN SPORTS HD,,https://live.msnetworks.net/ten-sports/master.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8",
         "isHot": true
     },
     {
@@ -87,16 +87,6 @@
         "team1Title": "Pakistan A",
         "team2Title": "Bangladesh A",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3,) STARZPLAY FHD,,https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3,) SonyLiv HINDI SD,,http://c8.vfruitfairy.com/Hindi/index.m3u8,) SonyLiv ENG SD,,http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CRICKET | Cricket Evento",
-        "matchTime": "2026-11-27 16:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187744/image",
-        "team2Logo": "https://cricketvectors.akamaized.net/Series/2O8.png",
-        "team1Title": "Bangladesh A",
-        "team2Title": "TBS",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hfkzscud13/out/v1/c61a8389b4b34857a53bc23cd2d139d8/cenc.mpd|drmScheme=clearkey&drmLicense=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761,) STARZPLAY FHD,,https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hfkzscud13/out/v1/c61a8389b4b34857a53bc23cd2d139d8/cenc.mpd|drmScheme=clearkey&drmLicense=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761,) FHD STREAMING,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g9oxryhrzt/out/v1/e20c53d9b97b47e2aa4093369cd1e421/cenc.mpd|drmScheme=clearkey&drmLicense=80b7d868c24a42338b5ebeb1ec7c1e4b:dc42470ebbfd8cacb3cf731b54a8cb38",
         "isHot": true
     },
     {
@@ -176,7 +166,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/5396/image",
         "team1Title": "Maccabi Petach Tikva",
         "team2Title": "Hapoel Tel Aviv",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
+        "streamLink": "",
         "isHot": true
     },
     {
@@ -206,7 +196,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/167228/image",
         "team1Title": "Al-Kholood",
         "team2Title": "Al-Khaleej",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SM IPTV Live,,Ok",
+        "streamLink": "SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel6.m3u8u",
         "isHot": true
     },
     {
@@ -226,7 +216,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22618/image",
         "team1Title": "Honduras U17",
         "team2Title": "Japan U17",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.55/hls/TFFFAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SM IPTV Live,,Ok",
+        "streamLink": "SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/TFFFAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
         "isHot": true
     },
     {
@@ -236,7 +226,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22478/image",
         "team1Title": "Colombia U17",
         "team2Title": "Serbia U17",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.55/hls/TFFFA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SM IPTV Live,,Ok",
+        "streamLink": "SERVER TV+ HD,,http://193.47.62.55/hls/TFFFA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
         "isHot": true
     },
     {
@@ -266,7 +256,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/1231931/image",
         "team1Title": "Ireland U17",
         "team2Title": "Tanzania U17",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.44/hls/TDDDAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SM IPTV Live,,Ok",
+        "streamLink": "SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TDDDAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
         "isHot": false
     },
     {
@@ -276,7 +266,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22586/image",
         "team1Title": "Costa Rica U17",
         "team2Title": "Brazil U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SM IPTV Live,,Ok",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY,,https://live3979.zundrixmediapipeline.com/live/channel18.m3u8?|Referer=https://xlz.domainkqt.cc/,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
         "isHot": false
     },
     {
@@ -286,7 +276,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/168094/image",
         "team1Title": "Al-Qadsiah",
         "team2Title": "Al-Fayha",
-        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TDDDAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TDDDAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY,,https://live3979.zundrixmediapipeline.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "isHot": false
     },
     {
@@ -326,7 +316,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/48830/image",
         "team1Title": "Montenegro U17",
         "team2Title": "Chile U17",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8,) SM IPTV Live,,Ok,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
         "isHot": false
     },
     {
@@ -406,7 +396,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22629/image",
         "team1Title": "Venezuela U17",
         "team2Title": "Mexico U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) SM IPTV Live,,Ok,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) SM IPTV Live,,Ok,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
         "isHot": false
     },
     {
@@ -1580,6 +1570,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "CRICKET | T20 International",
+        "matchTime": "2026-11-29 14:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
+        "team1Title": "Australia",
+        "team2Title": "England",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd|drmScheme=clearkey&drmLicense=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd|drmScheme=clearkey&drmLicense=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE SD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u2edccnzno/out/v1/cd3ccce21dcf49b386b83b4ec4d4be78/cenc.mpd|drmScheme=clearkey&drmLicense=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49,) AUSTRALIA TV - AQ,,https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484,) TAPMAD - AQ,,https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8,) TAPMAD HD,,https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8,) TEN SPORTS HD,,https://live.msnetworks.net/ten-sports/master.m3u8,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "RUGBY | Nations Championship",
         "matchTime": "2026-11-29 19:10:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4230/image",
@@ -2157,16 +2157,6 @@
         "team1Title": "Buffalo Bills",
         "team2Title": "Kansas City Chiefs",
         "streamLink": "Sky Top Event- AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | BBL Women's",
-        "matchTime": "2026-11-27 11:10:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team1Title": "BBL Women's",
-        "team2Title": "BBL Women's",
-        "streamLink": "WILLOW - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2dkhupmkeb/out/v1/0c49d8b659d74e618997b7c5778d9abf/cenc.mpd|drmScheme=clearkey&drmLicense=f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f,) SKY CRICKET - FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW - ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2dkhupmkeb/out/v1/0c49d8b659d74e618997b7c5778d9abf/cenc.mpd|drmScheme=clearkey&drmLicense=f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f,) WILLOW HD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
         "isHot": false
     },
     {
