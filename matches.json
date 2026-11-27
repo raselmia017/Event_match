@@ -110,46 +110,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | CAF Confederations Cup",
-        "matchTime": "2026-11-27 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/212411/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/189124/image",
-        "team1Title": "Azam FC",
-        "team2Title": "Al Ahli Tripoli",
-        "streamLink": "BeIN SPORTS3 -- FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/TFFFAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) BEIN SPORTS AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-27 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7764/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22618/image",
-        "team1Title": "Honduras U17",
-        "team2Title": "Japan U17",
-        "streamLink": "SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/TFFFAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-27 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22592/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22478/image",
-        "team1Title": "Colombia U17",
-        "team2Title": "Serbia U17",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.55/hls/TFFFA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "DARTS | Player Championship FINAL",
-        "matchTime": "2026-11-27 19:00:00",
-        "team1Logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "team2Logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "team1Title": "Darts",
-        "team2Title": "Darts",
-        "streamLink": "SD STREAM,,http://193.47.62.55/hls/TFFF.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "MIXED MARTIAL ARTS | ONE FRIDAY FIGHTS 179",
         "matchTime": "2026-11-27 19:30:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -557,7 +517,7 @@
         "team1Title": "New Jersey Devils",
         "team2Title": "Calgary Flames",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -567,7 +527,7 @@
         "team1Title": "Nashville Predators",
         "team2Title": "Utah Mammoth",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -577,7 +537,7 @@
         "team1Title": "Boston Bruins",
         "team2Title": "Toronto Maple Leafs",
         "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) Sky Sport Mix - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | FIBA World Cup Qualification, Europe",
@@ -587,7 +547,7 @@
         "team1Title": "Sweden",
         "team2Title": "Hungary",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | SuperLiga României",
@@ -2340,6 +2300,36 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | CAF Confederations Cup",
+        "matchTime": "2026-11-27 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/212411/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/189124/image",
+        "team1Title": "Azam FC",
+        "team2Title": "Al Ahli Tripoli",
+        "streamLink": "BeIN SPORTS3 -- FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/TFFFAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) BEIN SPORTS AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-27 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7764/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22618/image",
+        "team1Title": "Honduras U17",
+        "team2Title": "Japan U17",
+        "streamLink": "SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/TFFFAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-27 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22592/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22478/image",
+        "team1Title": "Colombia U17",
+        "team2Title": "Serbia U17",
+        "streamLink": "SERVER TV+ HD,,http://193.47.62.55/hls/TFFFA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | Tanzanian Premier League",
         "matchTime": "2026-11-27 19:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/318547/image",
@@ -2347,6 +2337,16 @@
         "team1Title": "Pamba SC",
         "team2Title": "Namungo FC",
         "streamLink": "SERVER TV+ HD,,http://193.47.62.50/hls/TFFFAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "DARTS | Player Championship FINAL",
+        "matchTime": "2026-11-27 19:00:00",
+        "team1Logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "team2Logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "team1Title": "Darts",
+        "team2Title": "Darts",
+        "streamLink": "SD STREAM,,http://193.47.62.55/hls/TFFF.m3u8",
         "isHot": false
     }
 ]
