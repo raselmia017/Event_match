@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-27 03:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4392/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4428/image",
-        "team1Title": "Dallas Cowboys",
-        "team2Title": "Philadelphia Eagles",
-        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) SM IPTV Live - AQ,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61096\\/load-playlist,) Sky Top Event - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) TSN SPORTS 3 - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN SPORTS 4 - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-27 04:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -897,6 +887,16 @@
         "team1Title": "Golazo Show",
         "team2Title": "Golazo Show",
         "streamLink": "PARAMOUNT+,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfwewesw54/out/v1/522359f03dd5411fa96d4fb84375f0df/cenc.mpd|drmScheme=clearkey&drmLicense=629217a2952c541bed541053bebb6e79:78329d9e16fd79edd93ff9f7f9c758e8,) CBS SPORTS GOLAZO AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NFL",
+        "matchTime": "2026-11-27 03:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4392/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4428/image",
+        "team1Title": "Dallas Cowboys",
+        "team2Title": "Philadelphia Eagles",
+        "streamLink": "TSN SPORTS - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) SM IPTV Live - AQ,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61096\\/load-playlist,) Sky Top Event - AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) TSN SPORTS 3 - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN SPORTS 4 - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
         "isHot": false
     }
 ]
