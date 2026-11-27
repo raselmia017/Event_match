@@ -100,46 +100,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | CAF Champions League",
-        "matchTime": "2026-11-27 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/69322/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/134322/image",
-        "team1Title": "Al-Hilal Omdurman",
-        "team2Title": "Horoya",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | CAF Champions League",
-        "matchTime": "2026-11-27 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/175002/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/55035/image",
-        "team1Title": "Pyramids FC",
-        "team2Title": "Maghreb Fes",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-27 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22645/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/313112/image",
-        "team1Title": "Romania U17",
-        "team2Title": "Cameroon U17",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.41/hls/JRRR.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD stream,,https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-27 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/48841/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22629/image",
-        "team1Title": "Venezuela U17",
-        "team2Title": "Mexico U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY 2,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JRRRA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-27 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/34648/image",
@@ -147,26 +107,6 @@
         "team1Title": "Xavier Musketeers",
         "team2Title": "Virginia Cavaliers",
         "streamLink": "SERVER+ HD,,https://chatgpt.hereisman.net/playlist/61129/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Tanzanian Premier League",
-        "matchTime": "2026-11-27 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/212404/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/360785/image",
-        "team1Title": "Kagera Sugar FC",
-        "team2Title": "Dodoma Jiji FC",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games Women",
-        "matchTime": "2026-11-27 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/186328/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/316945/image",
-        "team1Title": "Côte d'Ivoire",
-        "team2Title": "Senegal",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": true
     },
     {
@@ -386,7 +326,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3679/image",
         "team1Title": "New Jersey Devils",
         "team2Title": "Calgary Flames",
-        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61142/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61142/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e95997f7-44fd-4706-a742-19658503ac7f/master.m3u8",
         "isHot": true
     },
     {
@@ -396,7 +336,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/530472/image",
         "team1Title": "Nashville Predators",
         "team2Title": "Utah Mammoth",
-        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61139/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61139/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5afedee2-c641-46ba-82f0-3023ab0e13c4/master.m3u8",
         "isHot": true
     },
     {
@@ -406,7 +346,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3693/image",
         "team1Title": "Boston Bruins",
         "team2Title": "Toronto Maple Leafs",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) SERVER+ HD,,https://chatgpt.hereisman.net/playlist/61141/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) Sky Sport Mix - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61141\\/load-playlist,) HD SERVER,,https://chatgpt.hereisman.net/playlist/61141/load-playlist,) HD SERVER,,https://pl.playlist6.space/playlist/61141/simplefuturetower92/caxi",
+        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) SERVER+ HD,,https://chatgpt.hereisman.net/playlist/61141/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/98c39f1f-8510-4d05-b1bd-b7696602cfc4/master.m3u8,) Sky Sport Mix - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61141\\/load-playlist,) HD SERVER,,https://chatgpt.hereisman.net/playlist/61141/load-playlist,) HD SERVER,,https://pl.playlist6.space/playlist/61141/simplefuturetower92/caxi",
         "isHot": true
     },
     {
@@ -416,7 +356,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/25376/image",
         "team1Title": "Sweden",
         "team2Title": "Hungary",
-        "streamLink": "",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.50/hls/JMMMAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -427,6 +367,16 @@
         "team1Title": "Iowa State Cyclones",
         "team2Title": "St. John's Red Storm",
         "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61140/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | FIBA Asia Cup 2029 Pre-Qualifiers",
+        "matchTime": "2026-11-28 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/206348/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/55353/image",
+        "team1Title": "Palestine",
+        "team2Title": "United Arab Emirates",
+        "streamLink": "SERVER TV+ HD,,http://193.47.62.59/hls/YYYY.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -520,6 +470,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | Eerste Divisie",
+        "matchTime": "2026-11-28 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2973/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2958/image",
+        "team1Title": "FC Dordrecht",
+        "team2Title": "Vitesse",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
         "eventTitle": "FOOTBALL | Ekstraklasa",
         "matchTime": "2026-11-28 01:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3110/image",
@@ -527,7 +487,7 @@
         "team1Title": "Górnik Zabrze",
         "team2Title": "Wisła Płock",
         "streamLink": "SERVER TV+ HD,,https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | LaLiga 2",
@@ -537,7 +497,7 @@
         "team1Title": "Leganés",
         "team2Title": "CE Sabadell",
         "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a,) LALIGA HYPEMOTION ES - AQ,,https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Bundesliga",
@@ -547,7 +507,7 @@
         "team1Title": "SV Werder Bremen",
         "team2Title": "Borussia M'gladbach",
         "streamLink": "SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -557,7 +517,7 @@
         "team1Title": "UCLA Bruins",
         "team2Title": "Georgetown Hoyas",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Ligue 1",
@@ -2387,6 +2347,66 @@
         "team1Title": "FC Universitatea Cluj",
         "team2Title": "Sepsi OSK Sfântu Gheorghe",
         "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/XAXAXAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CAF Champions League",
+        "matchTime": "2026-11-27 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/69322/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/134322/image",
+        "team1Title": "Al-Hilal Omdurman",
+        "team2Title": "Horoya",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CAF Champions League",
+        "matchTime": "2026-11-27 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/175002/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/55035/image",
+        "team1Title": "Pyramids FC",
+        "team2Title": "Maghreb Fes",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-27 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22645/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/313112/image",
+        "team1Title": "Romania U17",
+        "team2Title": "Cameroon U17",
+        "streamLink": "SERVER TV+ HD,,http://193.47.62.41/hls/JRRR.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD stream,,https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-27 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/48841/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22629/image",
+        "team1Title": "Venezuela U17",
+        "team2Title": "Mexico U17",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY 2,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JRRRA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Tanzanian Premier League",
+        "matchTime": "2026-11-27 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/212404/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/360785/image",
+        "team1Title": "Kagera Sugar FC",
+        "team2Title": "Dodoma Jiji FC",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games Women",
+        "matchTime": "2026-11-27 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/186328/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/316945/image",
+        "team1Title": "Côte d'Ivoire",
+        "team2Title": "Senegal",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": false
     }
 ]
