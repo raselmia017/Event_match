@@ -296,7 +296,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/313112/image",
         "team1Title": "Romania U17",
         "team2Title": "Cameroon U17",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8,) HD stream,,https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+        "streamLink": "SERVER TV+ HD,,http://193.47.62.41/hls/JRRR.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD stream,,https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
         "isHot": true
     },
     {
@@ -306,7 +306,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22629/image",
         "team1Title": "Venezuela U17",
         "team2Title": "Mexico U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY 2,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY 2,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JRRRA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
         "isHot": true
     },
     {
@@ -346,8 +346,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/7057/image",
         "team1Title": "Fiji",
         "team2Title": "Italy",
-        "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "streamLink": "SERVER TV+ HD,,http://193.47.62.41/hls/JRRRAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SM IPTV Live,,Ok",
+        "isHot": true
     },
     {
         "eventTitle": "OTHER | Horse Racing",
@@ -357,7 +357,7 @@
         "team1Title": "Horse Racing",
         "team2Title": "Horse Racing",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Ekstraklasa",
@@ -367,7 +367,7 @@
         "team1Title": "Raków Częstochowa",
         "team2Title": "Piast Gliwice",
         "streamLink": "SERVER TV+ HD,,https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Trendyol Süper Lig",
@@ -377,7 +377,7 @@
         "team1Title": "Alanyaspor",
         "team2Title": "Konyaspor",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Trendyol Süper Lig",
@@ -387,7 +387,7 @@
         "team1Title": "Çaykur Rizespor",
         "team2Title": "Kasımpaşa",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Trendyol 1.Lig",
@@ -397,7 +397,7 @@
         "team1Title": "Sarıyer",
         "team2Title": "İstanbulspor",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Trendyol 1.Lig",
@@ -407,7 +407,7 @@
         "team1Title": "Ümraniyespor",
         "team2Title": "Manisa FK",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | FIBA World Cup Qualification, Europe",
@@ -417,7 +417,7 @@
         "team1Title": "Estonia",
         "team2Title": "France",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -427,7 +427,7 @@
         "team1Title": "Ole Miss Rebels",
         "team2Title": "Mississippi State Bulldogs",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -437,7 +437,7 @@
         "team1Title": "UTSA Roadrunners",
         "team2Title": "Tulsa Golden Hurricane",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -447,7 +447,7 @@
         "team1Title": "Akron Zips",
         "team2Title": "Buffalo Bulls",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -457,7 +457,7 @@
         "team1Title": "Iowa Hawkeyes",
         "team2Title": "Nebraska Cornhuskers",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -467,7 +467,7 @@
         "team1Title": "Ohio Bobcats",
         "team2Title": "Toledo Rockets",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games Women",
@@ -477,7 +477,7 @@
         "team1Title": "Mauritania",
         "team2Title": "Gambia U17",
         "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | 2. Bundesliga",
@@ -836,7 +836,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4223/image",
         "team1Title": "Ireland",
         "team2Title": "Australia",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8,) SM IPTV Live,,Ok",
         "isHot": false
     },
     {
@@ -1396,7 +1396,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/7955/image",
         "team1Title": "Wales",
         "team2Title": "Japan",
-        "streamLink": "SM IPTV Live,,Ok",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8,) SM IPTV Live,,Ok",
         "isHot": false
     },
     {
