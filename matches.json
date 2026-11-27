@@ -140,16 +140,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Tanzanian Premier League",
-        "matchTime": "2026-11-27 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/318547/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/327299/image",
-        "team1Title": "Pamba SC",
-        "team2Title": "Namungo FC",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.50/hls/TFFFAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "DARTS | Player Championship FINAL",
         "matchTime": "2026-11-27 19:00:00",
         "team1Logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
@@ -236,7 +226,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/316489/image",
         "team1Title": "Algeria U17",
         "team2Title": "Dominican Republic U17",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.41/hls/XAXAXAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel8.m3u8",
+        "streamLink": "SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel8.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/XAXAXAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel8.m3u8",
         "isHot": true
     },
     {
@@ -246,27 +236,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/48830/image",
         "team1Title": "Montenegro U17",
         "team2Title": "Chile U17",
-        "streamLink": "SERVER TV+ HD,,http://193.47.62.41/hls/XAXAXAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Bahraini Premier League",
-        "matchTime": "2026-11-27 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/45477/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/45478/image",
-        "team1Title": "Malkiya",
-        "team2Title": "Manama",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Bahraini Premier League",
-        "matchTime": "2026-11-27 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/60430/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/213603/image",
-        "team1Title": "East Riffa",
-        "team2Title": "Al Ittifaq",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
+        "streamLink": "SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/XAXAXAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
         "isHot": true
     },
     {
@@ -296,7 +266,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/189789/image",
         "team1Title": "FC Universitatea Cluj",
         "team2Title": "Sepsi OSK Sfântu Gheorghe",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/XAXAXAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -336,7 +306,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22629/image",
         "team1Title": "Venezuela U17",
         "team2Title": "Mexico U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY 2,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/,) D Sports ES - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) HD STREAM,,https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
         "isHot": true
     },
     {
@@ -2357,6 +2327,16 @@
         "team1Title": "Al-Kholood",
         "team2Title": "Al-Khaleej",
         "streamLink": "HD QUALITY,,https://www.rtmpcdn.com/live/6f9e6470-0e99-491c-8979-c0407b97d2f3.m3u8,) SERVER TV+ HD,,https://live3979.zundrixmediapipeline.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Tanzanian Premier League",
+        "matchTime": "2026-11-27 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/318547/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/327299/image",
+        "team1Title": "Pamba SC",
+        "team2Title": "Namungo FC",
+        "streamLink": "SERVER TV+ HD,,http://193.47.62.50/hls/TFFFAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     }
 ]
