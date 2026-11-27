@@ -6,7 +6,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
         "team1Title": "Australia",
         "team2Title": "England",
-        "streamLink": "WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd|drmScheme=clearkey&drmLicense=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) FANCODE - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) WILLOW S2 - AQ,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd|drmScheme=clearkey&drmLicense=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73,) TAPMAD - AQ,,https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8,) TEN SPORTS HD,,https://live.msnetworks.net/ten-sports/master.m3u8,) FANCODE SD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) TAPMAD HD,,https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+        "streamLink": "WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd|drmScheme=clearkey&drmLicense=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) FANCODE - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) TAPMAD - AQ,,https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8,) WILLOW S2 - AQ,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd|drmScheme=clearkey&drmLicense=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73,) TEN SPORTS HD,,https://live.msnetworks.net/ten-sports/master.m3u8,) FANCODE SD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) TAPMAD HD,,https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
         "isHot": false
     },
     {
@@ -260,6 +260,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "RUGBY | Nations Championship",
+        "matchTime": "2026-11-28 02:10:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4228/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4223/image",
+        "team1Title": "Ireland",
+        "team2Title": "Australia",
+        "streamLink": "SM IPTV Live,,Ok",
+        "isHot": false
+    },
+    {
         "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-28 04:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -340,6 +350,26 @@
         "isHot": false
     },
     {
+        "eventTitle": "RUGBY | Nations Championship",
+        "matchTime": "2026-11-28 19:10:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7058/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7955/image",
+        "team1Title": "Wales",
+        "team2Title": "Japan",
+        "streamLink": "SM IPTV Live,,Ok",
+        "isHot": false
+    },
+    {
+        "eventTitle": "RUGBY | Nations Championship",
+        "matchTime": "2026-11-28 22:40:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4226/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4227/image",
+        "team1Title": "England",
+        "team2Title": "New Zealand",
+        "streamLink": "SM IPTV Live,,Ok",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | GLORY RIVALS",
         "matchTime": "2026-11-29 01:00:00",
         "team1Logo": "https://glory.pinkyellow.network/cache/containers/files/news/glory-28-paris-rico-verhoeven-pre-fight-interview/thumbnail.jpg/d205884f70644c9683208c6493347946.webp",
@@ -367,6 +397,26 @@
         "team1Title": "Henry Cejudo",
         "team2Title": "Song Yadong",
         "streamLink": "STARZPLAY SPORTS AQ,,https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd|drmScheme=clearkey&drmLicense=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60043\\/load-playlist,) SD STREAM,,http://193.47.62.55/hls/EJJJAAA.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "RUGBY | Nations Championship",
+        "matchTime": "2026-11-29 19:10:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4230/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4225/image",
+        "team1Title": "Scotland",
+        "team2Title": "Argentina",
+        "streamLink": "SM IPTV Live,,Ok",
+        "isHot": false
+    },
+    {
+        "eventTitle": "RUGBY | Nations Championship",
+        "matchTime": "2026-11-29 22:40:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4231/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4224/image",
+        "team1Title": "South Africa",
+        "team2Title": "France",
+        "streamLink": "SM IPTV Live,,Ok",
         "isHot": false
     },
     {
