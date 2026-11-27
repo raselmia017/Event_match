@@ -100,6 +100,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "MIXED MARTIAL ARTS | ONE FRIDAY FIGHTS 179",
+        "matchTime": "2026-11-27 19:30:00",
+        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "team1Title": "ONE",
+        "team2Title": "ONE",
+        "streamLink": "ONE PPV - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d,) ONE FIGHT - AQ,,https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-27 20:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22593/image",
@@ -457,16 +467,6 @@
         "team1Title": "GROMDA",
         "team2Title": "GROMDA",
         "streamLink": "SM IPTV FHD,,https://messi.damitv.st/live-hls/channel/gromda-26/playlist.m3u8?tk=Qs7Wg_MbnM2lVs-dzOAlvQ&e=1788586257",
-        "isHot": false
-    },
-    {
-        "eventTitle": "MIXED MARTIAL ARTS | ONE FRIDAY FIGHTS 179",
-        "matchTime": "2026-12-04 19:30:00",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-        "team1Title": "ONE",
-        "team2Title": "ONE",
-        "streamLink": "ONE PPV - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d,) ONE FIGHT - AQ,,https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8",
         "isHot": false
     },
     {
