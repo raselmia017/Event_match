@@ -30,16 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-28 04:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3701/image",
-        "team1Title": "Chicago Blackhawks",
-        "team2Title": "New York Rangers",
-        "streamLink": "Sky Top Event- AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61194\\/load-playlist,) SD STREAM,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/120369e1-6e5f-4ac7-b694-c1f2407ebcd2/master.m3u8,) HD SERVER,,https://chatgpt.hereisman.net/playlist/61194/load-playlist",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
         "matchTime": "2026-11-28 05:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/1961/image",
@@ -47,16 +37,6 @@
         "team1Title": "Fluminense",
         "team2Title": "Cruzeiro",
         "streamLink": "PREMIERE BR - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3,) SportDigital Fussball,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | FIBA World Cup Qualification, Americas",
-        "matchTime": "2026-11-28 05:10:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6126/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/6141/image",
-        "team1Title": "Brazil",
-        "team2Title": "USA",
-        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61200/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://www.rtmpcdn.com/live/1e7e140e-9bb3-4f2f-b319-3ed623863348.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/4RRRAAAQQAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -307,7 +287,7 @@
         "team1Title": "SPORTS LIVE",
         "team2Title": "SPORTS LIVE",
         "streamLink": "NFL SERVER FHD,,https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd|drmScheme=clearkey&drmLicense=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841,) NFL NETWORK HD,,https://chatgpt.hereisman.net/playlist/54923/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | BBL Women's",
@@ -1950,6 +1930,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-28 04:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3701/image",
+        "team1Title": "Chicago Blackhawks",
+        "team2Title": "New York Rangers",
+        "streamLink": "Sky Top Event- AQ,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SM IPTV Live,,https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61194\\/load-playlist,) SD STREAM,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/120369e1-6e5f-4ac7-b694-c1f2407ebcd2/master.m3u8,) HD SERVER,,https://chatgpt.hereisman.net/playlist/61194/load-playlist",
+        "isHot": false
+    },
+    {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-28 05:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/34628/image",
@@ -1967,6 +1957,16 @@
         "team1Title": "Indiana Hoosiers",
         "team2Title": "Bowling Green Falcons",
         "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | FIBA World Cup Qualification, Americas",
+        "matchTime": "2026-11-28 05:10:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6126/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/6141/image",
+        "team1Title": "Brazil",
+        "team2Title": "USA",
+        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61200/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://www.rtmpcdn.com/live/1e7e140e-9bb3-4f2f-b319-3ed623863348.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/4RRRAAAQQAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
