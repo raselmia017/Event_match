@@ -30,16 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-28 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1961/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1954/image",
-        "team1Title": "Fluminense",
-        "team2Title": "Cruzeiro",
-        "streamLink": "PREMIERE BR - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3,) SportDigital Fussball,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | GOLF EVENTO",
         "matchTime": "2026-11-28 06:00:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
@@ -1957,6 +1947,16 @@
         "team1Title": "Indiana Hoosiers",
         "team2Title": "Bowling Green Falcons",
         "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-28 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1961/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1954/image",
+        "team1Title": "Fluminense",
+        "team2Title": "Cruzeiro",
+        "streamLink": "PREMIERE BR - AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3,) SportDigital Fussball,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "isHot": false
     },
     {
