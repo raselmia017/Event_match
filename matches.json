@@ -77,7 +77,7 @@
         "team1Title": "Al-Hazem",
         "team2Title": "Al-Nassr",
         "streamLink": "SPORTDIGITAL FUSSBALL - AQ,,https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8,) FOX DESPORTS HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Championship",
@@ -87,7 +87,7 @@
         "team1Title": "Blackburn Rovers",
         "team2Title": "Charlton Athletic",
         "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Championship",
@@ -97,7 +97,7 @@
         "team1Title": "Lincoln City",
         "team2Title": "Wolverhampton",
         "streamLink": "SM IPTV Live,,Ok",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Championship",
@@ -107,7 +107,7 @@
         "team1Title": "Preston North End",
         "team2Title": "Norwich City",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | LaLiga",
