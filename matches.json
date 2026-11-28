@@ -16,7 +16,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/800224/image",
         "team1Title": "Central Coast Mariners",
         "team2Title": "Auckland FC",
-        "streamLink": "SPORTDIGITAL FUSSBALL AQ,,https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8,) TNT SPORTS AQ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "streamLink": "SPORTDIGITAL FUSSBALL AQ,,https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "isHot": true
     },
     {
@@ -37,7 +37,7 @@
         "team1Title": "ILT T20",
         "team2Title": "ILT T20",
         "streamLink": "WILLOW - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/syx49vqdrr/out/v1/909eab72dfa945a08debe81846c5b78f/cenc.mpd|drmScheme=clearkey&drmLicense=76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54,) TNT SPORTS - AQ,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TAMASHA PRO AQ,,https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8,) UNITE8 HIN HD,,http://103.205.132.29:8081/Unite8-sports-1/index.m3u8,) ZEE ZEST IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd|drmScheme=clearkey&drmLicense=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735,) UNITE8 SPORTS IN,,https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd|drmScheme=clearkey&drmLicense=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f,) FANCODE [IND],,https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | Italia T10 2026",
