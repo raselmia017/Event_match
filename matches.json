@@ -50,6 +50,26 @@
         "isHot": true
     },
     {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-28 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4301/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4381/image",
+        "team1Title": "Wisconsin Badgers",
+        "team2Title": "Minnesota Golden Gophers",
+        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61211/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/MPMPMPAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-28 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4348/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4332/image",
+        "team1Title": "Texas A&M Aggies",
+        "team2Title": "Texas Longhorns",
+        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) SERVER+ HD,,https://chatgpt.hereisman.net/playlist/61210/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
         "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-28 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3419/image",
@@ -87,36 +107,6 @@
         "team1Title": "New York Islanders",
         "team2Title": "Winnipeg Jets",
         "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) SERVER+ HD,,https://chatgpt.hereisman.net/playlist/61208/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/81e27435-bd59-4ca3-b80a-817d64636d4c/master.m3u8,) SM IPTV Live,,Ok",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-28 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4301/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4381/image",
-        "team1Title": "Wisconsin Badgers",
-        "team2Title": "Minnesota Golden Gophers",
-        "streamLink": "SERVER TV+ HD,,https://chatgpt.hereisman.net/playlist/61211/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/MPMPMPAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-28 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4348/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4332/image",
-        "team1Title": "Texas A&M Aggies",
-        "team2Title": "Texas Longhorns",
-        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) SERVER+ HD,,https://chatgpt.hereisman.net/playlist/61210/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-28 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/41223/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/41217/image",
-        "team1Title": "Houston Cougars",
-        "team2Title": "Oakland Golden Grizzlies",
-        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": true
     },
     {
@@ -1977,6 +1967,16 @@
         "team1Title": "Deportivo Cali",
         "team2Title": "Atlético Bucaramanga",
         "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/4RRRAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-28 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41223/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/41217/image",
+        "team1Title": "Houston Cougars",
+        "team2Title": "Oakland Golden Grizzlies",
+        "streamLink": "SERVER TV+ HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": false
     }
 ]
